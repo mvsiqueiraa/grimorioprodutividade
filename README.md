@@ -19,9 +19,9 @@ O projeto foi essencial para consolidar conhecimentos em persistência de dados 
 ## 📱 Telas do Aplicativo
 
 <div align="center">
-  <img src="screenshots/tela_inicial.png" alt="Tela Inicial do Grimório" width="250"/>
-  <img src="screenshots/adicionar_tarefa.png" alt="Adicionando Missão" width="250"/>
-  <img src="screenshots/concluido.png" alt="Tarefa Concluída" width="250"/>
+  <img src="screenshots/tela_inicial.jpeg" alt="Tela Inicial do Grimório" width="250"/>
+  <img src="screenshots/adicionar_tarefa.jpeg" alt="Adicionando Missão" width="250"/>
+  <img src="screenshots/concluido.jpeg" alt="Tarefa Concluída" width="250"/>
 </div>
 
 ---
